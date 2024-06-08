@@ -1,3 +1,2 @@
 # FCC-ML-Journey
-This repository contains `Machine Learning with Python Projects` from www.freecodecamp.org. I learned This repository is a reflection of my learning journey.
-22
+I finished the `Machine Learning with Python` course in freecodecamp.org in 2022. This repository is a reflection of my learning journey as it contains <b>Machine Learning with Python Projects</b>.
